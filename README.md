@@ -24,13 +24,13 @@ Could not pass on the price increases.
 Difficult to get the needed volume and transfer the price increases through the value chain.
 Experienced a drop in demand.
 
-#Failures observed during manufacture unit visit.
+# Failures observed during manufacture unit visit.
 Hardware failure
 Communication gap
 Lack of smart work
 Mechanical failure
 
-#Preventive Maintenance plans
+# Preventive Maintenance plans
 Revision of machine temperature
 Revision of vibrations
 Maintenance of gas canisters
